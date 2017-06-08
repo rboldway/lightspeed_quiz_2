@@ -11,4 +11,4 @@ require "lightspeed_quiz_2"
 # Pry.start
 
 require "irb"
-IRB.start(__FILE__)
+LightspeedQuiz2::perform
